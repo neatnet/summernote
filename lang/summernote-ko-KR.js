@@ -50,7 +50,7 @@
         edit: '수정',
         textToDisplay: '링크에 표시할 내용',
         url: '이동할 URL',
-        openInNewWindow: '새창으로 열기',
+        openInNewWindow: '새 창으로 열기',
       },
       table: {
         table: '표',
@@ -104,7 +104,7 @@
         setTransparent: '투명으로 설정',
         reset: '취소',
         resetToDefault: '기본값으로 설정',
-        cpSelect: '고르다',
+        cpSelect: '사용자 지정 ',
       },
       shortcut: {
         shortcuts: '키보드 단축키',
